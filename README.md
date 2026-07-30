@@ -1,4 +1,3 @@
-<img src="https://github.com/SAMRATKALKI/SAMRATKALKI/blob/main/art%20day%20(2).png" alt="Kalki Banner" width="100%">
 
 <h1 align="center">もしもし (Moshi Moshi), I'm Samrat Kalki 👋</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Web Developer ☕</h3>
