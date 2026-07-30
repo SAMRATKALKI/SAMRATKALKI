@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ1aGNrd2JhbG1ueWkxNXYwMWpoa3oxbHAzYmtzdWN3em5tMjZpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SVTkuG8xa7jU179lir/giphy.gif" width="400"/>
 </p>
-## 🚀 About Me
+🚀 About Me
 
 I'm Samrat Kalki, a full-stack developer skilled in JavaScript, React.js, Node.js, Express.js, PostgreSQL, and REST API development. I build scalable productivity applications with reusable architecture and responsive UIs. Currently pursuing a B.Tech in Electrical & Electronics Engineering (Expected 2027) at Maharaja Surajmal Institute of Technology, I'm passionate about software engineering, AI-powered products, and building user-centric web applications.
 
